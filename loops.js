@@ -20,7 +20,7 @@ function whileLoop(n) {
 function doWhileLoop(num) {
   var i = num;
   function incrementVariable() {
-    
+
     i = i + num;
     return i;
   }
