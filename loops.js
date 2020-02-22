@@ -10,7 +10,7 @@ return array;
 }
 
 function whileLoop(n) {
-  let countdown = 10;
+  let countdown = n;
   while (countdown > 0) {
     console.log(--countdown);
   }
