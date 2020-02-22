@@ -8,5 +8,4 @@ function forLoop(array){
 }
 return array;
 }
-var array =[];
-forLoop(array);
+
